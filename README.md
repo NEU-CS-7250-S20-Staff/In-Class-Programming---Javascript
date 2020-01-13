@@ -1,5 +1,7 @@
 # In-Class-Programming--JavaScript
 
+~*25 min total*
+
 This repository is your starting point for the assignment and includes the instructions below.
 
 Link to GitHub pages website: `[insert your hyperlink here]`
