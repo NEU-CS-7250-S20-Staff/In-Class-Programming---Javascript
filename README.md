@@ -23,7 +23,7 @@ In the HTML file there is the line:
 ```
 <input type="button" onClick="multiplyBy()" Value="Multiply" />
 ```
-Thwis states that we have an HTML input field here which is of a button type and the value “Multiply” ends up as the button’s label. It also states that when you click the button,the browser is supposed to call the JavaScript function multiplyBy() which is defined in the corresponding JS file. We should write the action that is expected to occur in this function definition.
+This states that we have an HTML input field here which is of a button type and the value “Multiply” ends up as the button’s label. It also states that when you click the button,the browser is supposed to call the JavaScript function multiplyBy() which is defined in the corresponding JS file. We should write the action that is expected to occur in this function definition.
 
 Function explanation:
 ```javascript
